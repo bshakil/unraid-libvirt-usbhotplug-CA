@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/bshakil/unraid-libvirt-usbhotplug/master/plugins/libvirt.hotplug.usb.plg</PluginURL>
+<PluginAuthor>bshakil</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System Plugins:</Category>
+<Name>Libvirt Hotplug USB</Name>
+<Description>
+Unraid Plugin for Hot-plugging USB Devices to Running VMs. Libvirt Hotplug USB allows mounting of USB Devices (e.g. Keyboard, Mouse, iPhone, FlashDrive etc) on running VMs. It uses virsh to attach the Devices which avoids Conflicts between different VMs.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=47240.0</Support>
+<Icon>http://s1156.photobucket.com/user/bshakil/media/usbCA_zpsvobtmetq.png.html</Icon>
+</Containers>
